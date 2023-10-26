@@ -7,5 +7,9 @@ public class Demo_prog
 		System.out.println("Hello to Git");
 		
 	}
+	public void m1()
+	{
+		System.out.println("varsha");
+	}
 
 }
