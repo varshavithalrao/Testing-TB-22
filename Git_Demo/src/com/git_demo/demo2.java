@@ -6,5 +6,8 @@ public class demo2
 	{
 		System.out.println("varshavithalrao-patch-1");
 	}
-
+        public void m1()
+	{
+		System.out.println("patch-1");
+	}
 }
